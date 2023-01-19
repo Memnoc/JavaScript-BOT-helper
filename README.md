@@ -1,4 +1,4 @@
-# OpenAI API Quickstart - Node.js example app
+# OpenAI API JavaScript Helper
 
 This is a JavaScript BOT helper built using one of the endpoints provided by the OpenAI API [quickstart tutorial](https://beta.openai.com/docs/quickstart).
 I have created this both to have my very personal assistant while I study or if I forget something :)
